@@ -7,6 +7,7 @@
     'author': 'CodeFish',
     'category': 'Localization',
     'description': """
+    Warinign : install this module before install any modul !
     Arabic Chart of accounts for Egypt and other Arabic countries .
         - Using IFRS coding system 
             Assets,
